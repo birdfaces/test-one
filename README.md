@@ -1,2 +1,2 @@
 # test-one
-first test site
+first test repository
